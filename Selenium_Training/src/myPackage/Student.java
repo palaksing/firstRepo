@@ -12,6 +12,7 @@ public class Student {
 	public void display2()
 	{
 	System.out.println("Automation is very easy");	
+	System.out.println("Doing changes");
 	}
 	
 	public static void main(String[] args) {
